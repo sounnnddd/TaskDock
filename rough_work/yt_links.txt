@@ -1,0 +1,14 @@
+next.js
+https://nextjs.org/docs/app/getting-started/installation 
+https://www.youtube.com/watch?v=p-eASfbBXEk&list=PL5dspeV6pEpGXRiNarEIICglztVQjASOd&index=4 
+npx create-next-app@latest task-dock
+
+prisma
+https://www.prisma.io/docs/cli
+https://www.youtube.com/watch?v=8UcaOZyAT3E 
+npm install prisma --save-dev
+nvm, i found a better website - prsima and node.js
+https://www.prisma.io/docs/guides/frameworks/nextjs
+npm install prisma tsx @types/pg --save-dev
+npm install @prisma/client @prisma/adapter-pg dotenv pg
+npx prisma init --output ../app/generated/prisma
